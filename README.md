@@ -1,6 +1,6 @@
 - 👋 Oi, sou o Felipe Schuler
-- 👀 Me interesso por HTML, CSS, Javascript, NodeJS, QA Test, etc...
-- 🌱 Atualmente estudando Fullstack Development na Digital House Brasil
+- 👀 Me interesso por QA Test, HTML, CSS, Javascript, NodeJS, etc...
+- 🌱 Atualmente estudando Fullstack Development na Digital House Brasil e fazendo cursos de Testes Automatizados também.
 - 📫 Contacte-me no contato@ofelipeschuler.com
  
  
