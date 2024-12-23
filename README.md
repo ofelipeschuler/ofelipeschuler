@@ -1,6 +1,5 @@
 - 👋 Oi, sou o Felipe Schuler
-- 👀 Me interesso por Testes e Qualidade de Software, HTML, CSS, Javascript, etc...
-- 🌱 Atualmente estudando no Programa de Testes e Qualidade de Software do professor Júlio de Lima.
+- 👀 Me interesso por Segurança e Hacking, Testes e Qualidade de Software, Python, Javascript e Java.
 - 📫 Contacte-me no fschulerrr@gmail.com
  
  
